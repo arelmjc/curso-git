@@ -1,0 +1,3 @@
+?? dia02/; significa que ve esa carpeta pero git no la reconoce por ser una carpeta nueva
+A dia02/colores.txt dejamos preparado el archivo de colores para ser guardado en el proximo commit que se realice
+M dia02/colores.txt, indica que un un archivo ya conocido ha sido modificado por ello  la M delante
