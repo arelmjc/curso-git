@@ -1,0 +1,4 @@
+ M dia03/semana/lunes.txt 
+?? dia03/semana/miercoles.txt : 
+La primera tiene M porque ya lunes habia sido agregado al git pero se le realizo una modificacòn
+La segunda tiene ?? porque aun el miercoles no se le ha hecho commit
