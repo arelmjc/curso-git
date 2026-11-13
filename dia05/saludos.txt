@@ -1,0 +1,3 @@
+Ingles: Hello
+Frances: Bonjour
+Italiano: Ciao
