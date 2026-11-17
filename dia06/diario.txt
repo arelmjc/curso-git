@@ -1,3 +1,4 @@
 Aprendi a crear ramas
 Aprendi a moverme entre ellas
 Aprendi a verificar que estaba en una rama y en main
+Al cambiar de nos dimos cuenta que no estaba en-main.txt, ya que este pertenece a main 
