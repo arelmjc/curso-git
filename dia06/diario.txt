@@ -1,0 +1,3 @@
+Aprendi a crear ramas
+Aprendi a moverme entre ellas
+Aprendi a verificar que estaba en una rama y en main
