@@ -1,0 +1,2 @@
+git stash: al realizar este comando guardo en un cajon aquello a lo que no le haviamos aplicado git add
+git stash pop: lo saco de nuevo del cajon y por eso lo vemos de nuevo listo para subir
