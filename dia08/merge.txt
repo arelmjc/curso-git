@@ -1,0 +1,3 @@
+git merge: lo que hizo fue traer los camobios realizados en la rama dia 8 a la rama principal
+esto merge se realiza desde la rama que recibira los camobios
+aparecio la palabra Fast-forward que la rama principal solo avanzo hasta donde estaba la rama
