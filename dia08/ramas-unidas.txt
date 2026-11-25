@@ -1,0 +1,2 @@
+MERGE_MSG; se abrio esa pestaña ya que en main se habia realizado actualizaciones commits que cuando se crearon 
+estas ramas no existian, es decir fueron comist de ramas creadas despues de estas.
