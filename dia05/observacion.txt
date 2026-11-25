@@ -1,0 +1,1 @@
+Al regresar a la rama principal y revisar las carpetas con dir no aparecia la carpeta dia5, eso es porque esa carpeta fue creada en la rama dia05-saludos cuando me movi a la rama dia05-saludos si logre ver todas las carpetas
